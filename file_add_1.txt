@@ -3,4 +3,4 @@ Post review, this should be used
 
 Collaborator added
 
-can I push this directly to dev?
+Can a free collaborator merge the pull request
