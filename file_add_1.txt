@@ -1,5 +1,4 @@
 This file is to test how github deals with changes and reviews
-File change to be rejected?
 Post review, this should be used
 
 Collaborator added
